@@ -13,3 +13,5 @@ class Cercle{
             return Math.PI * (this.rayon **2);
         }
 }
+var point1 = new Point(2,2)
+var cercle = new  cercle(point1)
