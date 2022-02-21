@@ -15,3 +15,4 @@ class Cercle{
 }
 var point1 = new Point(2,2)
 var cercle = new  cercle(point1)
+console.log("perimetre" + cercle.perimetre)
