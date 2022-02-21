@@ -4,6 +4,8 @@ class Cercle{
         this.rayon=rayon;
     }
 
-    
 
+        perimetre(){
+            return 2 * Math.PI *this.rayon;
+        }
 }
